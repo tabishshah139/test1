@@ -6,7 +6,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://kgen.glitch.me/`);
+  http.get(`https://github.com/tabishshah139/test1`);
 }, 280000);
 
 const Discord = require ('discord.js');
