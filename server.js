@@ -95,6 +95,10 @@ bot.on('message', message =>{
                 value: "Stock:730 ||  +mailaccess"
               },
               {
+                name: "**Crunchyroll**",
+                value: "Stock:201 ||  +crunchyroll"
+              },
+              {
                 name: "**Origin**",
                 value: "Stock:230 ||  +origin"
               },
@@ -281,7 +285,159 @@ zsalentino@yahoo.com:Awesome123`;
     
 };
 });
-
+bot.on('message', message =>{
+    if (!message.guild) return;
+if (message.content === '+crunchyroll'){
+    if (usedCommandRecently4.has(message.author.id)){
+        message.channel.send('``Wait 2 mintue before generating again``')
+    } else{
+        usedCommandRecently4.add(message.author.id);
+        setTimeout(() =>{
+            usedCommandRecently4.delete(message.author.id);
+        }, 120000)
+    var string = `Daniel.lowe@gmail.com:xajookaz
+Elvisgomes50@gmail.com:Fucktheworld1
+Gabriel576@gmail.com:4everlong
+Lionheart0019@ymail.com:1919jj
+LupeOneLeo@gmail.com:WolfLE9653
+SoulSTEALman@hotmail.com:kill123
+aalnazer912@gmail.com:SourPatch1
+abelgamboa78@hotmail.com:fiction1
+adolfo-gracia@hotmail.com:darkranger1
+ajackssce@yahoo.com:091234
+alex.dreger@gmail.com:zelda2005
+alexg@uvic.ca:hotdog887
+anch487@gmail.com:Apple487
+arlenewillis8@gmail.com:boo07jr
+automaticmuffin@gmail.com:pooter
+aznskelth@yahoo.com:assassin
+ballislif3@outlook.com:Beastmode23
+beasst13@gmail.com:veronica13
+blaxbb@gmail.com:cur1os1ty
+bogartp_2000@yahoo.com:wantin
+brittanydreiling@yahoo.com:DRAGON1234
+bryanquinto21@gmail.com:meiling21
+c.juarez93@hotmail.com:blackops1
+calvert_ben@ymail.com:ilovewhitey1
+carlosrosreis@hotmail.com:Warfare345
+channy.thlang@gmail.com:ktpv8379
+christopherh2015@hotmail.com:heythere
+creedsgirl528@yahoo.com:ecstasy11
+cwp12@comcast.net:hulk1234
+d.urddddddd.dd@gmail.com:ds65uGks5U
+dajudge5694@hotmail.com:pookie7
+danielduncan11@gmail.com:Infernape22
+dasantia89@yahoo.com:skate5
+davidjhur75@gmail.com:Jin01750
+dejesusa@wit.edu:cloud13
+dmhendrix89@yahoo.com:hotfuzz1
+dodd.keaten@yahoo.com:hadril21
+drh81229@gmail.com:blackmage
+emmanuel_ftv@hotmail.es:220604lEr
+evilstarburst@gmail.com:ca92308
+flanagan.chris@gmail.com:123qaz
+foxtailinferno@yahoo.com:chinstrap7
+francispettit@yahoo.com:12many
+g@gamecaff.com:313131
+ichigo0921@hotmail.com:royfan
+itoshikio@gmail.com:gfnje3ah
+j_garciaperez@aol.com:Tentacion2
+jarvismwilliams@yahoo.com:jarvis22
+jasonivich@yahoo.com:12kermit
+jaylenlee3472@gmail.com:Jaylen72
+jconnor1479@yahoo.com:and1bball
+jdmgreg@gmail.com:mbsgfm
+jheidepriem@hotmail.com:MaggieLilly1005
+jobby6tx@yahoo.com:teddy6tx
+jonas.stavdal@gmail.com:kuppel
+jonasnmo@gmail.com:a250993a
+jonathan.ortiz82@yahoo.com:Boomer082
+jpsimpson760@cox.net:JpJpJp81
+jrlamarca@gmail.com:1qwerty1
+jward73@cox.net:butch2008
+kanaejunk@yahoo.com:william
+kristinjade@hotmail.com:P1nkielyn
+kyle.sadloski@gmail.com:sammy8863
+laird160@msn.com:woodside
+laracontreras@gmail.com:peaches06
+legendofxix@yahoo.com:shimmer
+lloyd.k.nelson@gmail.com:dragon1213
+lojikbmb@hotmail.com:megamanx3
+lunartakiro@gmail.com:hayatsugiru
+martyrpome@yahoo.com:gambit
+matthsv@gmail.com:hsvhrt
+megahellfire2002@yahoo.com:warrior
+mekilla@cox.net:corrupt
+memory_drain@yahoo.com:defgearbox
+mikangra@yahoo.com:kittyku
+mohammadbaalbaki99@gmail.com:mh123456789
+molla94@gmail.com:dragunity
+mrkiet03@hotmail.com:1110551
+mulhallchristopher@yahoo.com:Aiden0311
+mumblyomod@gmail.com:kypdurron
+naveen.swag@gmail.com:wwwww111
+nickdunks21@gmail.com:Cyclone21
+nicky7237@yahoo.com:lyddia
+ocfdadam@cox.net:firecraft12
+olewangsmo@icloud.com:Always99
+olivercuas@yahoo.com:oliver123
+pane_cotto@yahoo.com:365097
+parkerpryde@gmail.com:machete3
+pierce_agas16@outlook.com:Philippines123
+pinksapphirez1020@gmail.com:5265927
+purdynerdyyy@yahoo.com:shadamy119
+radikal_dreamer@hotmail.com:coldstone
+rasecjr1@gmail.com:diokete9210
+rayman922@gmail.com:aol123
+ritterjustin015@gmail.com:Captainw7
+rocklee70@gmail.com:ryunosuke
+rockmanzerox06@yahoo.com:red1234
+rorywbush@yahoo.co.uk:hommehouse
+s_bengie@hotmail.com:genise1990
+samsonite384@gmail.com:baklava2
+sg.luv.x@gmail.com:digimon
+shouriechetlur@gmail.com:hibiki12
+shtkn001@gmail.com:shoushi
+sirknight66@cox.net:dc091491
+sjfuhrmann@hotmail.com:1a2s3d4f
+slavic_magic@yahoo.com:poopoo
+snowminican@yahoo.com:cachiga
+stan_tha_man_@hotmail.com:yourmamma
+succc33d@yahoo.com:030393
+tellitubes@gmail.com:376tian
+tokenalpaca@gmail.com:akhari1992
+tommye1991@hotmail.com:tgejr1591
+twilightghost@comcast.net:1c84ay
+uthmandan00@yahoo.com:namredips1
+wa623149250@gmail.com:518518rich
+winnyboy@gmail.com:mercymemate
+wisekris@gmail.com:superstar
+wswarts@cox.net:harry1
+x.sol.2.x@gmail.com:priorityone
+xapace4x@yahoo.com:Smile13
+xslipknotxsicx@hotmail.com:051489
+youngkrazy206@yahoo.com:r07h021991
+yourfreakinmama@hotmail.com:wowtako
+yuchia0405@gmail.com:aa569bb65432
+yunusgodzilla@gmail.com:388dabbe21
+zeuskotg@gmail.com:dale1232
+zhengjiancc@gmail.com:r6qd8jvL4J
+zmay4@hotmail.com:Mesonetol1`;
+   var words = string.split('\n');
+    let random = words[Math.floor(Math.random()*words.length)];
+      message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
+     message.author.send({embed: {
+        color: 3447003,
+        description: `**Crunchyroll Account** \n \n ${random}`
+      }});
+      message.channel.send({embed: {
+        color: 3066993,
+        description: "Crunchyroll account sent on **DMs**! :white_check_mark:"
+   }});
+    };
+    
+};
+});
 
 bot.on('message', message =>{
     if (!message.guild) return;
