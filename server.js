@@ -641,7 +641,531 @@ valmart2003@terra.com.br:623240`;
 };
 });
 
-
+bot.on('message', message =>{
+    if (!message.guild) return;
+if (message.content === '+nordvpn'){
+    if (usedCommandRecently4.has(message.author.id)){
+        message.channel.send('``Wait 2 mintue before generating again``')
+    } else{
+        usedCommandRecently4.add(message.author.id);
+        setTimeout(() =>{
+            usedCommandRecently4.delete(message.author.id);
+        }, 120000)
+    var string = `manofsorrows@hotmail.om::Sonata305  
+samu.lahtela@gmail.om::Samu1989  
+looki666@web.de::Banzai13  
+nathanmalone.pnw@gmail.om::Mypasswordi
+trainrider1997@bellsouth.net::Ytoop513
+wellnitz10@gmail.om::password16  
+lbj23numb1@gmail.om::joanna32 
+fun106@aol.om::poopy123 d By 
+dodoblamboxd@iloud.om::1savage1 
+jameelbeasley@gmail.om::9Rahxona 
+kyle1399@aol.om::kyle0828 d By
+sandmangritz1@hotmail.om::mrgritz1  
+saulsbi16@gmail.om::ENkimloi87 
+lexandjason@gmail.om::slater69 
+morganfoye@hotmail.om::tintin78  
+theaa.w@hotmail.om::utedass1 d
+mehta46@gmail.om::razyme007 
+mattatta33@yahoo.om::datskune08  
+sanhezfranklin005@gmail.om::Jamuel120
+73sharath73@gmail.om::9986448320 
+ksktoool@hotmail.om::15975338 
+woodi1994@gmail.om::Otober08 
+fixedautism@gmail.om::harlie6179 
+redlus@gmail.om::Gilang1409 d
+mymail.josh@gmail.om::jeg981998  
+kentvuong88@gmail.om::Mynameisgr8 
+korayulan@gmail.om::Besiktask1 
+notvinema@gmail.om::Deadguy123  
+matthieu.dejoue@gmail.om::moutt2k7  
+vendetta_jake@hotmail.om::Jtgame01  
+steven.a.hiller@gmail.om::demonking6 
+abmbittle@gmail.om::nee1thai d
+usa800super@yahoo.om::R5ro9m 
+robbie68@hotmail.om::bonethugs 
+josef.bremberger@googlemail.om::Avalan
+briekamathy@hotmail.om::bennour82  
+alexiandu76@gmail.om::leninjaopier  
+beebill@bigpond.om::Wenathee5036  
+anasali301@yahoo.om::hitman311 
+darth_maximus@hotmail.om::ingorion177g
+brian7588@gmail.om::BrianA06 d
+DarthJenkins@hotmail.o.uk::Sidious3  
+wrredux@hotmail.om::1468d1991b 
+madieam@gmail.om::arjuna07 d 
+woottonjs@gmail.om::Grae060106  
+karoldanutama@gmail.om::karolkarol  
+dalipi.86@hotmail.h::xanilove 
+nikmathews243@gmail.om::Raear13  
+sambugjoebear@yahoo.om::5eraphim 
+raig.mogi@gmail.om::Mustang63 
+rrwilson1969@gmail.om::69ougar  
+hristianpmorgan@live.om::Mexio08  
+philippe90@yahoo.de::Philippe21 
+transferer@noos.fr::sardine1 d 
+stewartdodd@gmail.om::thorsdene101  
+rikk_t@hotmail.om::thunder65 d
+davylamb@gmail.om::david2001 d
+6416661@gmail.om::qwe123qwe d 
+tajjakson03@aol.om::8189862232  
+patrikkleroy@gmail.om::ars1800 
+nporikos@gmail.om::hokey21 d 
+enmat@live.it::Halo3odst d By 
+rowan_lynh@hotmail.om::rowanlynh260 
+ra.boogie@gmail.om::arter15 d
+sean-pek@hotmail.om::sp16ae78 
+stephanepouyte@orange.fr::steph2103  
+pandaboy626@gmail.om::frost626 
+snappyslizer@gmail.om::06052003  
+lanhamj529@gmail.om::Jayjay88 
+magnus.ugelolaus@outlook.om::Magnus123
+twitterfuth@gmail.om::Soer01  
+govindarumi@gmail.om::Twenty20 
+vivienmathe52120@gmail.om::vivien52  
+jarrettdan95@yahoo.om.au::yugioh8866 
+adenhodges@yahoo.o.uk::maxpower2k1  
+livesey.gill@talktalk.net::vanston1402 
+olivier.jesse@gmail.om::hawkeye3 
+pureobbyz@hotmail.om::tootat2 
+mr84xx@gmail.om::insanity1988 
+rumby@gmail.om::Gohogs03 d B
+bpatno@hotmail.om::Bearsfan1 d
+hodge45@gmail.om::hewbaa45 
+koolaidmanway123@gmail.om::Shortyboy1 
+brettowoodland@gmail.om::Tankw1982  
+markgregg87@gmail.om::ddrwars87  
+farrell1980@gmail.om::atha7FUt  
+luosbio1226@hotmail.om::luosbio789  
+aardvarktime@gmail.om::Yoloman1  
+emmjay.91@gmail.om::floopyandy12 
+prinetarun4u@gmail.om::feelmylove  
+paterson.rhys@gmail.om::Mithrandir311 
+Andyjakub29@gmail.om::Awesomejoe1 
+hristopher.aimers@gmail.om::Il120486 
+Kyp_15@hotmail.om::Radiohead15 
+gaming_yeti@hotmail.om::sasquath10  
+deweyat99@gmail.om::Tigmort1 
+tom-krahmer@web.de::hammer11 d 
+marinushove@hotmail.om::Kasperkat20  
+teflonaudi@gmail.om::Thesoup1 
+jmkeane95@gmail.om::osine45 d
+hunter0372@gmail.om::Ohio1234 
+themetalazer@hotmail.om::Darkdrag0n  
+lol133560@gmail.om::123POKEmon123 
+brianjenneson@bigpond.om::anada12  
+arno.halle@gmail.om::ma5keb3r 
+amillo.monelesan@me.om::051004ami 
+samarthvajpeyi8@gmail.om::Username8  
+m.g.maershalk@gmail.om::Frittenfett23
+dhaub666@gmail.om::Destrution0  
+osar2118ortiz@gmail.om::2118hell 
+despotdjeki@gmail.om::irondoor963  
+alvaroasso@gmail.om::alvrin1992  
+pdae1@hotmail.om::pimpae01 d
+borisgr.od@gmail.om::7336406s 
+dhahn99@hotmail.om::Iamawesome1999  
+vitorialrussell101@gmail.om::20080112
+adrian.81@live.om.au::oldfeild 
+tom_vermeeren7@live.nl::Tzed1503 
+theinredibleteam371@gmail.om::Aiden03
+jindro3k@hotmail.om::Pandro3k 
+sigurdlykke7@gmail.om::Sigurd12  
+aglodavid@gmail.om::1986frodo 
+toriol64@gmail.om::tato6446 d 
+jmar.aho@gmail.om::helloyou 
+musi19499@gmail.om::Dannysuh19499  
+brazzale@gmail.om::m8q7rwbr d 
+phatteydump@gmail.om::keeley17 
+Andersson.gustav@hotmail.om::Kattmat22
+nathanlongstaff@live.om::by9nenR4 
+sif-h@hotmail.om::15af53d4a d
+pdaenen192@gmail.om::yinyang7 
+djdanieljones04@googlemail.om::Danstir
+doniekirrane@gmail.om::donalrules10  
+aliskankemal@gmail.om::hero2240 
+brant.g101@gmail.om::gra00145 
+dennisvet4@hotmail.om::Hansol123 
+r.alfalasi.99@gmail.om::Rashed99 
+jakeowen97@hotmail.om::Anorexigoat1 
+jessie.aton31b@gmail.om::danna123  
+kennyheung@ms.org.mo::Ms741014 
+horsejay2003@gmail.om::Swimmer4  
+justin.joon.yang@gmail.om::4hamashika 
+begon123@gmail.om::s0075267 d 
+rithea95@yahoo.om::Jakobrithea95  
+przemek42@gmail.om::wisla2222 
+fownzy95@gmail.om::Rastafari7 
+readl@gmail.om::laweon7 d By
+fatihgorman@hotmail.om::fatgor01 
+jaredkahl22@gmail.om::Kahl4ever  
+onnor.hurt73@gmail.om::Jessie73 
+syah.gibran@gmail.om::Durarara10 
+iarus_yan@hotmail.om::ming0424  
+ggnikole@gmail.om::Giabella2012  
+jakgermaine101@hotmail.o.uk::Helloj12
+porhi911@ma.om::porshe1 d 
+koenig3210@gmail.om::heilig12 
+theraven707@gmail.om::gg6drjea 
+medievil757@hotmail.om::Smithy200010 
+jfinn700@gmail.om::MillStone576  
+matianbarnard100@gmail.om::Mat13579  
+jmattmiller@gmail.om::kelevra8 
+randomraftlp@gmail.om::Einekleinemaus7
+lars_s94@hotmail.om::OIJ05hhb 
+fabslayer@hotmail.om::arena007 
+shadowfox0520@gmail.om::kamehameha1121
+joninwm@yahoo.om::hooters2 d B
+zaarredondo@gmail.om::NEpatriots12  
+joshyelder@gmail.om::jeyboi99 
+eri@eriproffitt.om::beun2you 
+rishi.kundi@gmail.om::gPuhYq5 
+urtgaebriel@gmail.om::Aiypwzqp1996  
+gianni35@iloud.om::Gianni35133  
+xallan21@live.fr::Sltallan21 d 
+kala_shearer@hotmail.om::Belle123 
+swooshithedouhe@gmail.om::oaola123
+alyssapink822@gmail.om::Alyssa45 
+ruppeasey@yahoo.om::aSeEy23 
+jebus9011@hotmail.om::Tab102515  
+olebeason2@live.om::harlet13 
+odyvugslol@gmail.om::odyvugs99 
+baky84@gmail.om::messa432 d By
+allenwan91@gmail.om::snakes91 
+markavsh29@gmail.om::markess6 
+sobewilson3@gmail.om::Lilia8792 
+iprianiorga@hotmail.om::ior3652 
+muhalu@wp.pl::Muhalu922984 d 
+781295718@qq.om::wwh5201314 d 
+johngeorgiou1989@hotmail.om::razyone1
+riky.bishoff1994@gmail.om::riky1994
+eri@dajakson.om::TheEnd05 d 
+remy_svardal@hotmail.om::xhevdet222  
+twpandrews@gmail.om::Hongkong84  
+holidaybl67@yahoo.om::Xarlin101  
+dr.bangarang@gmail.om::B4ttlefield  
+juangonzalez1196@gmail.om::Klokdeth1 
+mattman079@hotmail.om::ollege079 
+danielneely23@hotmail.om::esxuf7r  
+mario.maldonado9@gmail.om::PIZZA123  
+browz_101@yahoo.om::harrison1126 
+jasondogan@gmail.om::marh151976 
+drjeffreyfamily@aol.om::prine2007  
+lindenjedwards@gmail.om::Movingup8  
+bessa.andrey@gmail.om::Deborah08 
+nollianus@gmail.om::Thumbmaster2 
+faganthelee@gmail.om::Strawhat1  
+fgrodkowski2003@gmail.om::Filip2003  
+sam.murphy460@gmail.om::Magi4600 
+quiroga.alejandro@isrmail.om::Popopipi
+mariobehle@gmail.om::md11a380 
+tysnapi2505@gmail.om::lasalle22  
+okerox789@gmail.om::masoutah 
+linus@nivren.se::x31liniv d By 
+franktan721@gmail.om::teddie21 
+jessejuranka@gmail.om::mannure12 
+jkewei328@hotmail.om::jkwjkw328  
+thibault.favre@gmail.om::50690932A  
+alanzheng91@gmail.om::ferfer12 
+josholiverj@gmail.om::getbig64 
+theoleblan03@gmail.om::Tanglewood29 
+metalheadfitz666@gmail.om::Slipknot87 
+seanhatt50@yahoo.om::9plan3ts 
+petkos030@gmail.om::lego12345 
+maximusp2@yahoo.a::Nik1234 d 
+jumiller1@hotmail.om::jmlsd123 
+jieqingshi@googlemail.om::moehomer  
+digsteelers72@gmail.om::Steelers17  
+almurar@gmail.om::gzxix1a5 d B
+sergiogayo10@gmail.om::portilla10 
+kyle_rer35@hotmail.om::xanadu96  
+aneesh_v@hotmail.om::namita1974  
+dave.p.smith@gmail.om::24947170  
+shelly.jsy@gmail.om::jsy930993921 
+parrisrumph@gmail.om::Denise18 
+ritsblak@hotmail.om::Aa010010 
+orion.oliver@yahoo.a::123qazwsx  
+danieljubenville@hotmail.om::hokeyman
+joshuarhtr@gmail.om::assie14me 
+smahesney@gmail.om::ruffryders 
+ernesset@gmail.om::Susanne1000 
+mnanaszko@gmail.om::Mnanaszko1 
+kylef97@hotmail.o.uk::william22  
+hai.im.ninja@gmail.om::Pyr0mania
+hansenjaob152@gmail.om::Hansen1234567
+lookinsum1997@gmail.om::412497samloo 
+nerissa_naidu@yahoo.om::Faolan123 
+johnsonkm1@msn.om::asdfghjkl2 
+mikayil7@gmail.om::417535d 
+bentrilles@gmail.om::potato85 
+halldor0gudmundsson@gmail.om::awesome1
+jyang9344@gmail.om::reaper12 d
+m.alanjery@hotmail.om::mka9898232 
+davila.dmitri@gmail.om::Dmdavil0 
+keirlord@gmail.om::h2ymkeir d 
+ojiver@hotmail.de::Martina0 d B
+jett.todd@gmail.om::soth43 d
+dspea21@gmail.om::Sooby212 d
+jb161007@hotmail.om::TT37820ellipsis 
+rikyotten@gmail.om::eddyston3 
+jnoeste95@gmail.om::arragher23  
+zmiller612@hotmail.om::mzqxqd612 
+mikewsm.15@gmail.om::Monster15 
+joakimkito@hotmail.om::habbo123  
+ohanlonmegan@gmail.om::letsg0mets 
+joe4ever@hotmail.om::justin22 
+blake.smartguy@gmail.om::goF15h1ng  
+zahhahn94@yahoo.om::mAster1337  
+tekkitteam@hotmail.om::Giorgio02 
+rgkennedy@gmail.om::Pa55word4 
+imransyedbbm@gmail.om::syed28091978  
+hitesh1979@gmail.om::krishkuhu 
+osielenglish@gmail.om::osielg2013 
+saul.lino.sil@gmail.om::980623As 
+willgilbreath@gmail.om::lball12 
+ayy.arr.ee@gmail.om::blakmamba 
+herry.leary@gmail.om::dannie1023  
+annarbhatt@gmail.om::Niall777 
+arjunkvisakh@gmail.om::akv9884355075 
+malin_westin@hotmail.om::billytorres 
+warmunkey@outlook.om::Gamer1234  
+dylan.r.wheatley@gmail.om::blade2012 
+aekinserhough@gmail.om::kitten12345  
+petermk93@hotmail.o.uk::93peter93  
+rgmarhion@gmail.om::gmwu41666 
+alexjimerson1@gmail.om::roxy1974 
+brentdrummond22@gmail.om::drummond22 
+kavsab69@yahoo.o.uk::soulmate 
+dbenolol@hotmail.om::Laptop123 
+aboose1691@hotmail.om::andygram77  
+liamhung86@gmail.om::me260686 
+mihaelip90@hotmail.om::mipset0416  
+karolvzarinana@hotmail.om::Zarinana123
+brushfiretoast@gmail.om::jingles77  
+davesa10@yahoo.om::Mexio10 d 
+rwilding94@gmail.om::lemonade0 
+nate.auger17@gmail.om::nate12147 
+bend2pa@gmail.om::maxrules8 d 
+james..knight@gmail.om::1Underjolt7 
+zah.hughes91@gmail.om::Xtreme00 
+marti1rj@live.om::r2214242 d B
+apfelstrudel2.0@gmail.om::1t2o3b4i5a6s
+mheinonen87@gmail.om::rs5gt427 
+brainpoeder@hotmail.om::kerstman9 
+jordanwinslow21@gmail.om::Buzzkill1  
+jwylie22@hotmail.om::dookie22 
+ordenmuslig@outlook.de::Ordeni31  
+stapledpaper@live.om::laytonwar1  
+ParanoiaXI@gmail.om::Never4get 
+j-yu@live.om::9284ssss d By AR
+joehelm@hotmail.o.uk::ploppy11 
+awolfw@gmail.om::Birdman5 d By
+guldus@t-online.de::1Asterix d 
+johnjshiller@gmail.om::speedo15 
+thomasbusteed@gmail.om::Forever1 
+felippe02@hotmail.es::Mariotds1 
+peidsvoogp@hotmail.om::Sealion1  
+j.a.shmaling@gmail.om::antihak1 
+erlend.12@hotmail.om::buster13 
+supra_gal@hotmail.om::S00bydoo  
+dustinkeffer@gmail.om::Dotor21  
+raul.palomo@gmail.om::ijam5690 
+deson94@gmail.om::boysout94 d
+spene77@live.o.uk::Saskia55 d
+rkuipers88@gmail.om::Noahbella1  
+robineau.antoine@hotmail.fr::Antoine198
+abus1233@gmail.om::122345aabb 
+vinentallenbarajas@gmail.om::Iphone13
+straughterguthrie@gmail.om::Geraldine1
+k_leepeare@hotmail.om::nokiae71 
+fireftr27@gmail.om::yamahawr250  
+nikolasmaas@gmail.om::Trisou123  
+pjbryant88@gmail.om::Alison24 
+ninjaking574@gmail.om::123kye321 
+hristopherrosbybrodka@gmail.om::in0
+pauleros2@gmail.om::Good4you d
+demoratwomen@hotmail.om::Marty101  
+josefegutierrez@gmail.om::kruthik1  
+rune.reiersen@hotmail.om::yd83rokk  
+fredrikostlund@hotmail.om::forever1  
+alen.r.h@gmail.om::alen2467 
+austinfarrugia@hotmail.om::Rad1at0r  
+kylonvp@gmail.om::harhar d B
+rbasselberry@yahoo.om::Tanner85 
+pasal.zanette@free.fr::Ba5tounet 
+tidemann04@gmail.om::99GHeiok 
+sawel.williams@yahoo.o.uk::Fudge2004 
+anna.fabing@hotmail.om::Immergruen1412
+alilalani909@gmail.om::Wiseteh1 
+shannongymnast@gmail.om::1a2b34D  
+ometsfox@gmail.om::ohsorad22 
+joyme19@gmail.om::joy143test 
+jamesmunford2017@gmail.om::Buisness1 
+moorea99@gmail.om::nasar99 d
+olekowalzyk@hotmail.om::ole123456 
+laufeybjortjonsdottir@gmail.om::Melkor
+erik@wtnet.de::Sanhain0302 d By
+mikkelhansen11@gmail.om::mikkel11 
+joshuajameswilliams@gmail.om::jjgwjjgw
+nio.laakso@gmail.om::1o7tOr91 
+unlimitedmpehd@gmail.om::Runner12  
+mrgriggs1987@gmail.om::stephen1992  
+slebodnik.mihal151@gmail.om::jamnik15
+merevesz@gmail.om::orky123 d 
+lilibelle4432@yahoo.om::belle4432 
+thealokett@yandex.om::Welome1  
+quagmire86a@gmail.om::silverroad73  
+nhreesno1@yahoo.o.uk::pfpf657  
+tanyakennedy99@gmail.om::p1an0f0rte  
+kaanadamey@gmail.om::49mkte3 
+xumepko@gmail.om::dep20r1 d B
+sammlaren123@gmail.om::qwe10443 
+jimbob.kavsta@gmail.om::piard30 
+nlabutin5@gmail.om::Lebron2345 
+rihiebomb@gmail.om::rihierose12 
+pekhn@gmail.om::oekaki12 d
+bythebrook42@gmail.om::Maxxer42  
+Oky.Santoso@gmail.om::allaway 
+azha612@gmail.om::Lalala77 d B
+sambritton9@gmail.om::lapham1 
+mhburger@aol.om::Romano98 d By
+teddyn2006@gmail.om::FuzzBuzz01  
+andrewjoo7@gmail.om::blueman7 
+ella.prihard11@gmail.om::Ell42014  
+Joshua.rodrigue@me.om::josh7217  
+juzzy96@yahoo.om.au::5o78065O7806  
+ararrey@gmail.om::tardis97 d
+kushalpunhoo@gmail.om::Madness678  
+tyler.waye@hotmail.om::deputy19  
+preeesamson@gmail.om::Samson001 
+JessiaLinderlovesR5@gmail.om::rosslyn
+anthony.n.1989@gmail.om::vegeta67 
+diamond_snow@hotmail.om::roket12 
+razak@gmail.om::AfshaanA d By
+razAk@gmail.om::AfshaanA d By
+flemming.upake@gmail.om::7120bredal 
+madianne22@outlook.om::Roxybuster09  
+louis.najem@gmail.om::Lounaj83 
+rendra1810@gmail.om::indonesia4x4 
+emilyhathett7@gmail.om::s3ls4eva 
+johnj_90@hotmail.om::Magaly75 
+jpwiesener@hotmail.no::sandi100 
+a.alkharashi93@gmail.om::q1q2q3q4 
+ian.unliffe1982@gmail.om::liverpool05
+telliergui@laposte.net::Flameon59 
+shannonaitlyn@yahoo.om::ravenlaw  
+franhise3056@gmail.om::Igetmoney305 
+owenvyse@gmail.om::nutsak99 d
+ollinlively@gmail.om::Iloveats123  
+austyn.j.adams@gmail.om::heyenneAM2 
+jennyhodbod@hotmail.om::mer1d1an 
+katemontgom@gmail.om::rusti01 
+killiana@gmail.om::kakarot7 d 
+brad.kiefer25@gmail.om::foxraing25  
+wallisp@hotmail.om::marathon42 
+vinniemartini@gmail.om::starwars1 
+tillo0125@gmail.om::samantha06 
+warrenheung54@gmail.om::199454warren 
+wak_a_mole_99@yahoo.om::k31m21j06  
+voytek.boko@gmail.om::tobaky1  
+ty100ty1@gmail.om::pokemon123 
+wbarfield324@gmail.om::747527ab  
+2019ttd@gmail.om::87349113 d B
+warwolf28@gmail.om::Assassin28 
+wade1998@iloud.om::Robert2016 
+uzisuperman@gmail.om::jeffrey123 
+waterisdeep@aol.om::Gilbert830 
+kevin.baynes@hotmail.om::Morgan415  
+williamrans@gmail.om::harmi06 
+xavierook1994@yahoo.om::Talifah3 
+Tylerv667767@gmail.om::That1day2 
+whan427@gmail.om::blak00 d B
+tsihlis@gmail.om::rypti1 d 
+vernepleieren@gmail.om::Bestitest1  
+thomaswiedey@web.de::evk775us d
+william.a.lakey@gmail.om::Hampton99 
+tepdoesmineraft@gmail.om::mineraft00
+autistisheep.om@gmail.om::Soer03 
+willslater2000@gmail.om::Misha123 
+x2012mihael@gmail.om::turnberry59  
+wrobbit@gmail.om::hopin21 d B
+Wragestein@hotmail.om::wootl33tftw  
+willeblomgren@hotmail.om::kalleanka12 
+tyrel3301@yahoo.a::j88uk0rq d 
+vinent-96@hotmail.fr::les3upidon 
+usol4u@gmail.om::watever4me d 
+thomas.eikmedia@gmail.om::nemesis9  
+yashoo234@gmail.om::heman234 d
+xmanq127@gmail.om::weaponx127 
+warior4356@yahoo.om::Ford4356 
+XxBryantD@gmail.om::1477248x d
+xiaohunhun2001@gmail.om::12qwaszxvb
+xiimummy@126.om::leipan110 d 
+tommytang@live.om::Butters11 d
+wtbtauren@gmail.om::misosoup5 
+yussef.mobarak@yahoo.om::Bigfish1 
+Vladimir.Danhuk.13@gmail.om::Literatu
+xxeataowxx95@gmail.om::brownie1 
+Willniholson99@gmail.om::Haloreah08 
+wssunder@gmail.om::1onenewman 
+youngmaryjoe401@yahoo.om::bailey401  
+wings_ting@hotmail.om::y0430232  
+will.lai87@gmail.om::beerbeer 
+tmulty@hotmail.om::Nolimits4me 
+tsjakson99@gmail.om::Duatist45 
+xvanishingpointx@gmail.om::jdredd12  
+willsmify96@gmail.om::navyseal7  
+yannivgold@gmail.om::jimi1000 
+yeagertrystan@aol.om::Ledzep12 
+xxpinkertonxx@gmail.om::rastaman1 
+zurih538@gmail.om::zurih538 
+waridajamal@hotmail.om::Jw123456 
+theweiss@gmail.om::Germany1 d 
+ursosmexy@yahoo.om::Dozzer11 d
+wimpygolem@gmail.om::Monkey1999  
+zhangmingheusa@live.om::erisson120  
+zahariah99@gmail.om::Abigail1 
+zalanlasko@gmail.om::snowboard779 
+yfundora911@gmail.om::qwef2dyf 
+z.nashif@gmail.om::united99 d 
+zahsaddress03@gmail.om::Zah2003 
+tuffty23@hotmail.om::Franesa12 
+varun.hope@gmail.om::Flames89 
+zstarr1390@gmail.om::Boop1390 
+ysunil.bteh@gmail.om::Esript116 
+willyam.arand@gmail.om::arand22 
+yeahass@gmail.om::Dv1296dv d B
+xsunnyx86@hotmail.om::mohammad786 
+zayek.mark@gmail.om::Masenko311  
+xavierkliendienst@gmail.om::Freshest1 
+valeledesmagaria@hotmail.om::Viaopalo3 
+vinsmb@hotmail.om::Perhaude11 
+williamkaska@yahoo.om::ingenius1
+unistudent13@yahoo.a::Taylor2000
+tomsanders515@yahoo.om::Spener1
+zrdandan@gmail.om::atblast88 
+vaxlovelove@gmail.om::ONEup2down
+jf3333@yahoo.om::6382joel 
+shadyemad23@gmail.om::shouka23 
+zerogus2003@gmail.om::Flores80 
+zeljko-lj@bluewin.h::stewart1 
+kimovalentine@gmail.om::199401Silver`;
+   var words = string.split('\n');
+    let random = words[Math.floor(Math.random()*words.length)];
+      message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
+     message.author.send({embed: {
+        color: 3447003,
+        description: `**NordVpn Account** \n \n ${random}`
+      }});
+      message.channel.send({embed: {
+        color: 3066993,
+        description: "NordVpn account sent on **DMs**! :white_check_mark:"
+   }});
+    };
+    
+};
+});
 
 
 bot.on('message', message =>{
