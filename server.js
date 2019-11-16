@@ -88,7 +88,7 @@ bot.on('message', message =>{
               },
               {
                 name: "**Spotify**",
-                value: "Stock:665  ||  !spotify"
+                value: "Stock:779  ||  +spotify"
               },
               {
                 name: "**CrunchyRoll**",
@@ -106,35 +106,7 @@ bot.on('message', message =>{
                name: "**Nitro**",
                 value: "Nitro:190054 !nitro"
               },
-              {
-                name: "**Origin**",
-                value: "Stock:4924  || !origin"
-              },
-              {
-                  name: "**Fortnite**",
-                value: "Stock:1046   || !fortnite"
-              },
-              {
-                  name: "**Minecraft**",
-                value: "Stock:445  || !minecraft"
-              },
-              {
-                  name: "**Mailaccess**",
-                value: "Stock:10495  || !mailaccess"
-              },
-              {
-                  name: "**PUBG**",
-                value: "Stock:300  || !pubg"
-              },
-              {
-                  name: "**WWE**",
-                value: "Stock:783  || !wwe"
-              },
-              {
-                  name: "**Mega.nz**",
-                value: "Stock:441 || !mega"
-              },
-              {    
+              {  
                   name: "**Join Tabish Gen Official CM**",
                 value: "https://discord.gg/zGTR2Ra"
               },
@@ -893,7 +865,7 @@ nathitha2001@gmail.com:Lucas4135664`;
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**Spotify** \n \n ${random}`
+        description: `**Spotify Premium Account** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
@@ -906,25 +878,414 @@ nathitha2001@gmail.com:Lucas4135664`;
 
 bot.on('message', message =>{
     if (!message.guild) return;
-if (message.content === '!hulu'){
+if (message.content === '+minecraft'){
     if (usedCommandRecently4.has(message.author.id)){
         message.channel.send('``Wait mintue before generating again``')
     } else{
         usedCommandRecently4.add(message.author.id);
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
-        }, 60000)
-    var string = `fobgirl80@gmail.com:il0veyou`;
+        }, 120000)
+    var string = `ms.jcruz21@yahoo.com:Anthony1
+nicholas.vo@gmail.com:Gilipollas413
+alexalexhansen@gmail.com:Ph4tl3wt
+patwes4@yahoo.com:catjrybr4
+katdun98@gmail.com:Boots4leah.
+mattfaircloth@live.com:Ceepit2821!
+wt_howell@hotmail.com:Tman20WW
+alanna.marrero@email.saintleo.edu:amnlmbf*29
+combckgirl4dad2@aol.com:Rbb25426
+mekobaruth@hotmail.com:meko5353
+puccistyle@icloud.com:Puccinelli12
+lucasarnold808@gmail.com:ocean808
+ahatch80@gmail.com:sosugolf69
+benwbrake@outlook.com:Palace24
+smileforever1027@gmail.com:Guineapigs101
+blondie777@att.net:angel777
+kelseyeray9@gmail.com:0615liebe
+jarrodsaunders4@gmail.com:Paco8833
+sdram12@gmail.com:Gollheim!2
+rochelle_ramos8@yahoo.com:R30092945j
+gonzalezstebandaniel@gmail.com:SectorNine9
+joshuasykes1134@gmail.com:Thesykes5
+colleen.arrasmith@hotmail.com:1263Ca5463!
+marc4lyfe@gmail.com:Mackiebaby123$
+marshall.h.lynch@gmail.com:Mlynch21
+nelson5280@gmail.com:d0nt4g3tme
+salladmk@gmail.com:Duchie13
+hcreyes0602@gmail.com:Rawr1rawr2
+jmelchert@live.com:Rhs511521
+kaci.kielmar@yahoo.com:snb91-08
+physicsmaster13@gmail.com:Mt830877
+erin_tindie@hotmail.com:babyrygy1
+rolaid77@gmail.com:12514823
+elise.davies05@gmail.com:elis2205
+anthonyrox1998@hotmail.com:Anthony1
+norskeelb@yahoo.com:LUKEerik1994
+meyomix@gmail.com:Josephstar1231
+matt.durkin6101@gmail.com:Md180902
+rileyambrosemartin@gmail.com:Threethree14
+superdanil@gmail.com:duke123123
+morganpie1402@gmail.com:Truman1402
+sullivandjb@optonline.net:may2471
+mustanggtstorm2014@yahoo.com:Anthony1
+pate9712@gmail.com:BabyTweets14
+jchuechu@hotmail.com:Jhkl#888
+silva_javier92@yahoo.com:chicago312
+chaddfrasier20@gmail.com:Beastmode20
+johnawheeler@verizon.net:R1ddl3rs
+skylynn651@gmail.com:Carrot651
+acstewart1411@gmail.com:Yellowflash1411
+jinshenglun@me.com:Jinshenglun123
+anthonypantonio@gmail.com:Gangsta1@
+alyajfan92@yahoo.com:Sonnybob17
+athibault77@gmail.com:November1775
+connor.mozer@gmail.com:Loonieboy8-
+samantha04skelton@gmail.com:Gummibear1!
+jmiernik0784@gmail.com:Hokage23#
+yovanovitchm@yahoo.com:melissa04jones
+06watkinse@gmail.com:Charlie.1
+tytyfuerst@yahoo.com:Rexdestroya1
+docsimbapari@yahoo.com:Zvaita00
+biceman522@gmail.com:Evconsyd7
+lindcl01@luther.edu:iluv2swim
+ireneg707@gmail.com:Ig03211993
+mchlgalway8@gmail.com:Mg580333
+corey.donaldson11@ymail.com:january1993
+jettwodiuk@aol.com:Beulah37
+masterswfty@earthlink.net:thirteen
+gavinleinen@gmail.com:g5039794
+cjgrice@ncsu.edu:ddp4life
+tmostman06@gmail.com:Ostman35
+rastanbn@mail.uc.edu:rastani1
+wrestla221@gmail.com:Pal03079
+saxxonwhitaker@hotmail.com:1307232Sw
+the.nsa.is.reading.this@gmail.com:2euler718
+jhornef@yahoo.com:Keyblade4392
+brandonmdanny@outlook.com:r4Rockyd0716^
+joshuatovell@gmail.com:Tabletb0y
+colin73@vt.edu:Cjl-378766
+eimear.flynn1@gmail.com:ngr33nef
+bsmith08hawks@gmail.com:1brandon
+fishingformammoths@gmail.com:Waldonoel11
+luisagoncillo@hotmail.com:Dotsdots1!
+awestruck1213@gmail.com:Macarc13
+dylanrabbolini@gmail.com:Dylanh01
+madhatchit@gmail.com:mar92kers
+katherinehardy2@yahoo.com:130461Kh
+raissi9898@yahoo.com:A7mar9090
+clezokstudios@frontier.com:cuddal696
+taymoore450@gmail.com:Cherry450
+pwtuttle@yahoo.com:Alcohol7
+dancer_xoxo123@hotmail.ca:Winnie2012
+thebretts2cool@gmail.com:S0cc3r1029
+reesegallen@gmail.com:Pachingo12
+hearmehrawr96@yahoo.com:Playgame1
+jaredmarcuccilli@gmail.com:Vanillamc12!
+paulinep275@hotmail.com:13Pauline
+zoefun8@gmail.com:sister28
+joshdeltoro97@gmail.com:Yamasaki97
+slimygecko@comcast.net:vtp95yjx
+mayumimohan@gmail.com:Vat$how123
+sebtorra@gmail.com:Swim2015
+briangutierrezc.99@gmail.com:Brianrox99
+natepham@gmail.com:Allbutone1
+mfpiecuch@yahoo.com:Grant0914
+tse.austin1@gmail.com:11032Austin
+noomnoraa@yahoo.com:Buster711
+curtis.vermeeren@gmail.com:Toronto@81
+not@live.dk:11125648Mj
+mbolin2@gmail.com:Kill71492546
+rj_dawson@yahoo.com:yarrow1129
+happyladymd@verizon.net:kosie22
+jon.poquiz@gmail.com:audacious0
+ecurtis12@gmail.com:athens11
+hermes.alex@gmail.com:felix111
+sm16125bc@gmail.com:Live_Life24/7
+mknopp105@gmail.com:Samantha5589
+eliza.brown1@yahoo.com:Ki@nn218
+ralphyounes2@hotmail.com:eminem0A?
+sssydthekid@gmail.com:E34r56cv
+omnomtehpanda@gmail.com:Pand@117
+norma8lopez@me.com:Guillermo#27
+rxv111230@utdallas.edu:Aznloser101
+maddie.spayer@gmail.com:Finley2002
+coreycastillo107@gmail.com:10744CMc
+masbolooki@gmail.com:iPhone4s
+anthonycapps@gmail.com:Capps1Anthony
+gaponte81@hotmail.com:greg6969
+leross02@yahoo.com:Liam11002
+quany_boy@yahoo.com:rascal123
+arronmixell@yahoo.com:Umultierf0
+afireinsidefhh@hotmail.com:ps3wiisd
+gena1124@gmail.com:Jinling9304
+arock82@gmail.com:Morrowdays1
+thequidachay@gmail.com:JoaquinQ7
+zeezee250@yahoo.com:Jinayasson123
+redsoxrock01@gmail.com:M0llyismydog
+ablackop3@yahoo.com:Pickle315
+rebehall@iu.edu:Joannhall2
+glhntz@hotmail.com:renamon8
+omar_j_abbas@hotmail.com:Pmoejc28
+matteoa@comcast.net:Matteoa98
+ryan.sannes@yahoo.com:Rts062992
+gangxian@mail.usf.edu:Commons0412
+ljfluhler2@gmail.com:fluhler1
+brycemcanally@yahoo.com:breakdance18
+stevenbrunner10@yahoo.com:Brunners0603
+peokou@gmail.com:Tour3ttes
+jumpup12@hotmail.ca:fccob12
+noah.bandy@gmail.com:Ndb062698
+mcgregorsarah69@yahoo.com:robbiejr2004
+sjmorano13@gmail.com:Champ1100
+amcnelson@gmail.com:Rainbowponies1
+a0stee03@louisville.edu:steelix11
+maddie.a.maitland@gmail.com:Madjel12
+grjing@yahoo.com:G0D4mm17!
+qcompj@yahoo.com:amanda7179
+brandonsos1@hotmail.com:Cdwertyu13!
+kyele.h13@gmail.com:Technicalrain13
+kryptods137@gmail.com:Darien19
+noahwilson@asu.edu:TeddyDog11
+chelsea.cook02@gmail.com:breathin17
+dukerules5594@hotmail.com:dgrdgr5594
+poisonyvi65@aol.com:my1365
+carencfpstudio@hotmail.com:isabella
+arthur.hurt@live.com:J@br0ni1970
+superian89@aol.com:Bobyboby1!
+ryanq93@hotmail.com:reaper23
+2dragon411@gmail.com:Etha6731
+korosco1@yahoo.com:Oaklandraiders1
+zaimzarin@gmail.com:Firelicker1
+hagemkj929@gmail.com:Yuno1992
+mbrooks90@ivytech.edu:Mel555812
+allextukey@hotmail.com:Usafa!12
+norcaljosh1@gmail.com:Engel77877!
+patel.lena16@gmail.com:Disney_1623
+lova.bergdahl@hotmail.se:lova0909
+jeremy.blackburn1990@live.com:Patriot1990!
+justinbenham@att.net:Vikings115193
+elphiejess@yahoo.com:Loverz92
+dzstowe@gmail.com:hudson1
+livtaride@cox.net:F1reB1ll4
+charlie.mascardo@gmail.com:Crosby2370!
+emily.dziedzic@bigpond.com:Skidmoore66
+lukestl38@gmail.com:47luscombe
+anas95@hotmail.nl:Latifa35
+cjcarey0212@gmail.com:147Center
+jenwilson36@yahoo.com:Torrey14
+pressedluck@aol.com:USarmy!!007
+robertsihr@gmail.com:Hammer11
+kayli.oliver@gmail.com:Naenae123
+spencert099@gmail.com:Noobness1
+harrisontoole714@gmail.com:Eragon717
+ablonde_chick@msn.com:amanda1
+belowthebeltbargains@hotmail.com:Thelmaky3k
+jkhune@gmail.com:veronica20
+call911fm@yahoo.com:Geoffrey2002
+jarldestry@gmail.com:Imagine69
+alexandrialillian@hotmail.com:Keyhole3!
+james.ryan1985@yahoo.com:money1220
+christinecartaya@yahoo.com:John22214
+cody@littlerockfarm.com:Cody12327
+petermachnicki@hotmail.com:Bull5468
+star_buck@live.com:B1ackjack
+rexbernard40@gmail.com:maxwell007
+morenokevin305@gmail.com:Peanutlux8
+keir.muldoon@gmail.com:Lubu1998
+lukas.bentzler@gmail.com:Rack7rain!
+allypost@ymail.com:Austin101!
+shrimpy-123@hotmail.com:Adalaur15
+zckbshm@gmail.com:Maldan916
+christineblyden@yahoo.com:Xzavier06
+kcat2930@gmail.com:90Giant$
+fishfish647@gmail.com:buShiDo24
+supermagna@sbcglobal.net:moofasa215
+hsmlvr_grl1013@yahoo.com:Izi1013*
+henry_andres@yahoo.com:Hernandez55
+houseknechtm@gmail.com:Mhouse93
+daisy2010flores@gmail.com:heymickey4
+tylerpreskitt@gmail.com:nevermore0
+jamesaustinedson@me.com:Lovekid478
+dman_1999@hotmail.com:Gibsonlp1
+jake1egelberg@gmail.com:bubble12
+dlwentworth@embarqmail.com:killer2009
+billywalsh2@gmail.com:b145walsh
+hannahjbard@gmail.com:hotert12
+daveklall@gmail.com:Guyana627
+422681803@qq.com:6789ilHa
+drivas@dot.net:greece
+tomtruong03@yahoo.com:Perrywhinkle777
+bradelms1968@gmail.com:Dexter9497
+wrtabb@gmail.com:464njBH87
+carusov45@aol.com:JohnCena214
+kristina.toni@gmail.com:5021250Kay
+sjevers98@yahoo.com:SwbF324T
+brendendrinkardmcfarland@gmail.com:5192updown
+james.r.velarde@gmail.com:advent1
+dunny9991@gmail.com:Tylerrox1
+craftonbrian@gmail.com:Breakingball1
+italianbarb1e@aol.com:ruben13
+soccerstarcici@aol.com:awsome99
+primal.wrath@yahoo.com:Tyler5588456
+danvass2@gmail.com:vassallo2
+rejackson003@gmail.com:puppylover7
+eddie.nickels@ymail.com:161demon
+yanmed2@gmail.com:yanelle2004
+jj12moore@googlemail.com:Zednalpia12
+fooodh@gmail.com:FaHaD1@3
+ctvassilaros@gmail.com:Dcsd128756
+jmyers96@gmail.com:Jjccmm96
+maxgelliott@gmail.com:Kittycat3
+alex.maldonado113@gmail.com:xelA!99%
+miguelapar1@yahoo.com:Ichimaru1
+bmbrawner@hotmail.com:M1randa97
+brownandpurplerock@gmail.com:Cupper12!
+mikejkaiser@gmail.com:Mikelop13!
+whatupchuck@yahoo.com:@35Tulin
+chapmanlewis1@gmail.com:Slasmom1234
+hitakikishun@gmail.com:Kisametoo13
+kylecblyth@gmail.com:Something3*
+ilovecutie4ever@gmail.com:Chonchies1
+leperez424@gmail.com:ELI6068PEREZ
+bigturd13@gmail.com:Vienna2013
+dolphin1632@gmail.com:Ash17Cha
+carlalopez0626@yahoo.com:June2620
+kelly20@hawaii.edu:Noahkai07*
+sabrinadunahay@gmail.com:doolB370012
+maja.rehle@gmail.com:Azorerna2013
+andrewscotthyatt@gmail.com:Ash01922
+mitchellmathes@ymail.com:United#5
+dylanpetrey@sbcglobal.net:Dylan5353
+ryandesiboy@gmail.com:Rtech6482
+cmshamblen@yahoo.com:Clayton1@
+saraccurtis@gmail.com:kuo8jli79
+yellowjello800@gmail.com:Asdfjkl0;
+laurensvndnhk@gmail.com:y3BKf69Q
+cpoconrad@hotmail.com:Seacadet1
+caseys.estep@gmail.com:Stupid123#
+ninsc14@gmail.com:456rtyQW
+edupler@hotmail.com:April111995
+jordandm_18@yahoo.com:Colts1fan
+bth8fwd@gmail.com:nignog3ggers
+pccharland78@gmail.com:Sn00py78
+jazmines.gonzalez@gmail.com:Iloveporky4ever
+jacquelyn.peterman@gmail.com:tobie808
+owenspartyof5@gmail.com:$3Ifbysea
+billyhusted1@gmail.com:Pokemon152001
+bman712@hotmail.ca:Gr8r8m87
+tyler.flanagan11@gmail.com:*Xbox360*
+jowithanoboe@gmail.com:Jowithanoboe95
+autumnr@15jdcda.org:Clemson1*
+alchemist564@hotmail.com:Masamune1
+vladvbv@gmail.com:Batman17
+thephanzie@gmail.com:12aB!?34
+siga456@naver.com:Psc3445!@
+ricovan88@gmail.com:Rvan3141592654
+evansjm02@gmail.com:34081626jme
+mustata94@gmail.com:Ataberking54
+semarple@comcast.net:Ethan112
+nysister02@gmail.com:Wildirish02
+rosstulloch1999@hotmail.co.uk:rolo99rt
+mike@joycegeo.com:Mickeyj1
+sebastiaan.peek1994@gmail.com:Pekebaas1!
+rsipos@me.com:RSipos1011
+deborah-craff@outlook.com:Or[an]ge
+moelinen@gmail.com:Smc1281870
+snatman@albany.edu:jg614rifle
+ozell55@hotmail.com:AngelsRno1!
+mcchurch@vt.edu:Dah0k13dud3
+lesliemccue@gmail.com:Dexter834
+bkcurry25@gmail.com:Bc102500
+anne.penguin@yahoo.com:Icylotus346
+xxlindseyhxx@yahoo.com:Sccr311!
+jddfski@gmail.com:John99John99
+thejman157@gmail.com:jayhawks80
+souza.phillip42@gmail.com:ownage4u
+htkang94@hotmail.com:1q2w3e
+drchandlerwk@yahoo.com:300Chickens
+kevin-roach@outlook.com:Brenden1991
+r2dan2d2@yahoo.com:Longjohnsilver18
+jack@nettworx.com:Xufat94$
+teri0174@embarqmail.com:Garth911
+wyattmckechnie@yahoo.com:whynot121
+ret21@optonline.net:Russell121
+a.freeders@live.com:offspring1!
+jaydon.d.bailey@gmail.com:CNcmqz38
+redbaron1234567@yahoo.com:abbycat
+abirh98@gmail.com:Airplane614
+debbiegutierrez71208@yahoo.com:Debbie2322
+destiny50193@gmail.com:QRSgkt68
+jordanh_30@yahoo.com:mygirls30
+simaual@gmail.com:Typhlosion7
+whitelyz@yahoo.com:Domino778899
+aboood448@live.com:najlau@e100
+ctbehrman@gmail.com:ABC123abc123!!
+harrisonflory@yahoo.com:Imaperson1
+maxlacosse@live.com:Robyn97!
+ambrose.charrier@ymail.com:ac271992
+jack.e.grimm@gmail.com:SF49ers1!
+alexandra.m.cabezas@gmail.com:lEnN0n89
+jakefournier1@gmail.com:Fournier12
+janine.gillott@gmail.com:Evie0live
+carochristi@gmail.com:minimami
+ripple_young@hotmail.com:Roubaozi1112
+itsmeandres@outlook.com:A7845481m
+wjcui@yahoo.com:sapphire07
+opie_p@yahoo.com:Jupiter71
+tristanabenjamin@gmail.com:Benjamin2k15
+kendra.milhone@gmail.com:Broncos98
+clayblanchard@gmail.com:Infamous!
+lillyemorris@gmail.com:lilly2002
+kachelmeyerchris@yahoo.com:chelsey9
+bethanymarie2001@yahoo.com:sellars1234
+nforsale@ymail.com:Ae61fn29
+bug900cannon@mac.com:S@dieann4
+dunc_smallz@hotmail.com:Goeagles1!
+austinmrocks@msn.com:chargers96
+brennan3.cathey@gmail.com:Whodat339
+kerry.s.dyson@gmail.com:Rexiboy2015?
+luvmuzik4life@gmail.com:Luvgagadam123
+taw.acekiller346@yahoo.com:dDZ2Vtpy
+aaron_gosselin@me.com:aDriwes2
+melver.tercero@yahoo.com:Jaksly25
+paul.friebe7@gmail.com:qwertasdf123
+rr.graphicx@gmail.com:Giancarlo18
+bschwartz40@yahoo.com:M!ch1gan
+gail.aconner@gmail.com:Irving69
+jonathan.griffin@live.com:qwerty123
+angelica.tellez001@mymdc.net:angelica1
+loricrowley@rocketmail.com:Zaq12wsx
+charles_green_123@yahoo.com:Butterf1y
+zache888@gmail.com:Zachss29!
+eminenna@sbcglobal.net:Erik8498
+jleeud@udel.edu:Juwind211
+c.rushin89@gmail.com:wilddogs2
+chutneypequeno@gmail.com:Gatorman11
+crazygamer101@gmail.com:4Minutesem
+mr.jonathan.griffin@gmail.com:qwerty123
+bilal.m.jamal@gmail.com:Ericsparrowth2
+stephen.pryce@hotmail.com:Biage123
+allenzach65@gmail.com:Beasley1
+joshuajyork@hotmail.com:skf3r8cg
+n.london@live.com:QweRErtY1
+neil.pelfrey@live.com:Monkeysrule321
+markprotze@hotmail.com:Bitobito123
+elizabethlspears@yahoo.com:Sixtoes79
+nathanwalser@gmail.com:Nate1997!@
+krystianoz1@wp.pl:Grajek319
+christopher.dane.usmc@gmail.com:jSe1CVP89f
+rsaco006@fiu.edu:Rsaco1021`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**Hulu** \n \n ${random}`
+        description: `**Minecraft NFA Account** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
-        description: "Hulu account sent on **DMs**! :white_check_mark:"
+        description: "Minecraft account sent on **DMs**! :white_check_mark:"
    }});
     };
     
