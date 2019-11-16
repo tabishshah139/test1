@@ -893,7 +893,7 @@ nathitha2001@gmail.com:Lucas4135664`;
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**MEGA** \n \n ${random}`
+        description: `**Spotify** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
