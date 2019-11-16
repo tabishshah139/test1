@@ -118,7 +118,7 @@ bot.on('message', message =>{
     if (!message.guild) return;
 if (message.content === '+mailaccess'){
     if (usedCommandRecently4.has(message.author.id)){
-        message.channel.send('``Wait mintue before generating again``')
+        message.channel.send('``Wait 2 mintue before generating again``')
     } else{
         usedCommandRecently4.add(message.author.id);
         setTimeout(() =>{
@@ -648,7 +648,7 @@ bot.on('message', message =>{
     if (!message.guild) return;
 if (message.content === '+spotify'){
     if (usedCommandRecently4.has(message.author.id)){
-        message.channel.send('``Wait mintue before generating again``')
+        message.channel.send('``Wait 2 mintue before generating again``')
     } else{
         usedCommandRecently4.add(message.author.id);
         setTimeout(() =>{
@@ -1403,7 +1403,7 @@ bot.on('message', message =>{
     if (!message.guild) return;
 if (message.content === '+minecraft'){
     if (usedCommandRecently4.has(message.author.id)){
-        message.channel.send('``Wait mintue before generating again``')
+        message.channel.send('``Wait 2 mintue before generating again``')
     } else{
         usedCommandRecently4.add(message.author.id);
         setTimeout(() =>{
