@@ -897,7 +897,7 @@ nathitha2001@gmail.com:Lucas4135664`;
       }});
       message.channel.send({embed: {
         color: 3066993,
-        description: "MEGA account sent on **DMs**! :white_check_mark:"
+        description: "Spotify Premium account sent on **DMs**! :white_check_mark:"
    }});
     };
     
