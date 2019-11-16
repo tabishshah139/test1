@@ -96,8 +96,8 @@ bot.on('message', message =>{
               },
               {
 
-               name: "**Nitro**",
-                value: "Nitro:190054 +nitro"
+               name: "**Nordvpn**",
+                value: "Stock:500 || +nordvpn"
               },
               {  
                   name: "**Join Tabish Gen Official CM**",
