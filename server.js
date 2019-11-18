@@ -248,8 +248,12 @@ if (message.content === '+nordvpn'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `manofsorrows@hotmail.om::Sonata305  
-samu.lahtela@gmail.om::Samu1989  
+    var string = `Note: We have added Little Advertisement
+You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://link-to.net/41622/nord ) 150x NordVPN Accounts 
+:two: ( https://link-to.net/41622/norde2 ) 150x NordVPN Accounts
+:three: ( https://link-to.net/41622/norde3 ) 200x nordVPN Accounts
 `;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
@@ -278,18 +282,26 @@ if (message.content === '+spotify'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `laurenp.thomas@yahoo.com:Charliecat9510
+    var string = `Note: We have added Little Advertisement
+You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://up-to-down.net/41622/spotify1 ) 200x Spotify Accounts 
+:two: ( https://up-to-down.net/41622/Spotify2P ) 200x Spotify Accounts
+:three: ( https://up-to-down.net/41622/spotify3 ) 200x Spotify Accounts
+:four: ( https://up-to-down.net/41622/spotify4 ) 128x Spotify Accounts
+
+
 `;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**Spotify Premium Account** \n \n ${random}`
+        description: `**Spotify Premium Accounts** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
-        description: "Spotify Premium account sent on **DMs**! :white_check_mark:"
+        description: "Spotify Premium accounts sent on **DMs**! :white_check_mark:"
    }});
     };
     
@@ -306,18 +318,22 @@ if (message.content === '+minecraft'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `ms.jcruz21@yahoo.com:Anthony1
-`;
+    var string = `Note: We have added Little Advertisement
+You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://up-to-down.net/41622/mineas1 ) 120x Minecraft Accounts 
+:two: ( https://up-to-down.net/41622/minesd2 ) 120x Minecraft Accounts
+:three: ( https://up-to-down.net/41622/minets3 ) 149x Minecraft Accounts`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**Minecraft NFA Account** \n \n ${random}`
+        description: `**Minecraft NFA Accounts** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
-        description: "Minecraft account sent on **DMs**! :white_check_mark:"
+        description: "Minecraft accounts sent on **DMs**! :white_check_mark:"
    }});
     };
     
