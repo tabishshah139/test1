@@ -37,7 +37,7 @@ bot.on('message', function(message) {
 
 bot.on('message', message =>{
   if (message.content === '+statsupdate') {
-   bot.user.setActivity(`${bot.guilds.size} servers | !help | Invite  `);
+   bot.user.setActivity(`${bot.guilds.size} servers | +stocks | +Invite  `);
     message.channel.send("**The stats have been updated!**")
    }
 });
