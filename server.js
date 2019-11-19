@@ -107,6 +107,10 @@ bot.on('message', message =>{
                 value: "Stock:970 ||  +nitro"
               },
               {
+                name: "**Netflix**",
+                value: "Stock:870 ||  +netflix"
+              },
+              {
 
                name: "**Nordvpn**",
                 value: "Stock:500 || +nordvpn"
@@ -135,8 +139,11 @@ if (message.content === '+origin'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `8helliom@gmail.com:Shadow99
-`;
+    var string = `Note: We have added Little Advertisement
+You Can Get more more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://up-to-down.net/41622/origin101 ) 74x Origin Accounts list 1 
+:two: ( https://link-to.net/41622/origi2 ) 60x Origin Accounts list 2`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -162,18 +169,21 @@ if (message.content === '+crunchyroll'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `Daniel.lowe@gmail.com:xajookaz
-`;
+    var string = `Note: We have added Little Advertisement
+You Can Get more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://link-to.net/41622/crunchy1 ) 60x Crunchyroll Accounts list 1 
+:two: ( https://link-to.net/41622/crunch2 ) 67x Crunchyroll Accounts list 2`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**Crunchyroll Account** \n \n ${random}`
+        description: `**Crunchyroll Accounts** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
-        description: "Crunchyroll account sent on **DMs**! :white_check_mark:"
+        description: "Crunchyroll accounts sent on **DMs**! :white_check_mark:"
    }});
     };
     
@@ -191,28 +201,63 @@ if (message.content === '+mailaccess'){
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
     var string = `Note: We have added Little Advertisement
-You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+You Can Get more than 50 Accounts by seeing advertisement 1 time 
 Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/mailacc1 ) 100x Mail Access Accounts 
-:two: ( https://link-to.net/41622/mail2 ) 100x Mail Access Accounts
-:three: ( https://link-to.net/41622/mailaccu3 ) 150x Mail Access Accounts
-:three: ( https://link-to.net/41622/mailaccc4 ) 150x Mail Access Accounts
-`;
+:one: ( https://link-to.net/41622/mailacc1 ) 100x Mail Access Accounts list 1 
+:two: ( https://link-to.net/41622/mail2 ) 100x Mail Access Accounts list 2
+:three: ( https://link-to.net/41622/mailaccu3 ) 150x Mail Access Accounts list 3
+:three: ( https://link-to.net/41622/mailaccc4 ) 150x Mail Access Accounts list 4`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**Mail Access Account** \n \n ${random}`
+        description: `**Mail Access Accounts** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
-        description: "Mail Access account sent on **DMs**! :white_check_mark:"
+        description: "Mail Access accounts sent on **DMs**! :white_check_mark:"
    }});
     };
     
 };
 });
+
+bot.on('message', message =>{
+    if (!message.guild) return;
+if (message.content === '+netflix'){
+    if (usedCommandRecently4.has(message.author.id)){
+        message.channel.send('``Wait 2 mintue before generating again``')
+    } else{
+        usedCommandRecently4.add(message.author.id);
+        setTimeout(() =>{
+            usedCommandRecently4.delete(message.author.id);
+        }, 30000)
+    var string = `Note: We have added Little Advertisement
+You Can Get more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://link-to.net/41622/netflixe ) 200x Netflix Accounts list 1 
+:two: ( https://link-to.net/41622/netfl2 ) 200x Netflix Accounts list 2
+:three: ( https://link-to.net/41622/netfli3 ) 200x Netflix Accounts list 3
+:four: ( https://link-to.net/41622/netfliee4 ) 260x Netflix Accounts list 4
+:five: ( https://link-to.net/41622/nefliexx5 ) 303x Netflix Accounts list 4`;
+
+   var words = string.split('\n');
+    let random = words[Math.floor(Math.random()*words.length)];
+      message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
+     message.author.send({embed: {
+        color: 3447003,
+        description: `**Netflix  Accounts** \n \n ${random}`
+      }});
+      message.channel.send({embed: {
+        color: 3066993,
+        description: "Netflix accounts sent on **DMs**! :white_check_mark:"
+   }});
+    };
+    
+};
+});
+
 
 
 bot.on('message', message =>{
@@ -226,13 +271,12 @@ if (message.content === '+nitro'){
             usedCommandRecently4.delete(message.author.id);
         }, 5000)
     var string = `Note: We have added Little Advertisement
-You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+You Can Get more than 50 Accounts by seeing advertisement 1 time 
 Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/code1 ) 200x Nitro Codes 
-:two: ( https://link-to.net/41622/codes2 ) 200x Nitro Codes
-:three: ( https://link-to.net/41622/coded3 ) 200x Nitro Codes
-:four: ( https://link-to.net/41622/coddes4 ) 240x Nitro Codes
-`;
+:one: ( https://link-to.net/41622/code1 ) 200x Nitro Codes list 1
+:two: ( https://link-to.net/41622/codes2 ) 200x Nitro Codes list 2
+:three: ( https://link-to.net/41622/coded3 ) 200x Nitro Codes list 3
+:four: ( https://link-to.net/41622/coddes4 ) 240x Nitro Codes list 4`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -261,12 +305,11 @@ if (message.content === '+nordvpn'){
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
     var string = `Note: We have added Little Advertisement
-You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+You Can Get more than 50 Accounts by seeing advertisement 1 time 
 Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/nord ) 150x NordVPN Accounts 
-:two: ( https://link-to.net/41622/norde2 ) 150x NordVPN Accounts
-:three: ( https://link-to.net/41622/norde3 ) 200x nordVPN Accounts
-`;
+:one: ( https://link-to.net/41622/nord ) 150x NordVPN Accounts list 1
+:two: ( https://link-to.net/41622/norde2 ) 150x NordVPN Accounts list 2
+:three: ( https://link-to.net/41622/norde3 ) 200x nordVPN Accounts list 3`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -295,15 +338,12 @@ if (message.content === '+spotify'){
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
     var string = `Note: We have added Little Advertisement
-You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+You Can Get more than 50 Accounts by seeing advertisement 1 time 
 Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://up-to-down.net/41622/spotify1 ) 200x Spotify Accounts 
-:two: ( https://up-to-down.net/41622/Spotify2P ) 200x Spotify Accounts
-:three: ( https://up-to-down.net/41622/spotify3 ) 200x Spotify Accounts
-:four: ( https://up-to-down.net/41622/spotify4 ) 128x Spotify Accounts
-
-
-`;
+:one: ( https://up-to-down.net/41622/spotify1 ) 200x Spotify Accounts list 1
+:two: ( https://up-to-down.net/41622/Spotify2P ) 200x Spotify Accounts list 2
+:three: ( https://up-to-down.net/41622/spotify3 ) 200x Spotify Accounts list 3
+:four: ( https://up-to-down.net/41622/spotify4 ) 128x Spotify Accounts list 4`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -331,11 +371,11 @@ if (message.content === '+minecraft'){
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
     var string = `Note: We have added Little Advertisement
-You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+You Can Get more than 50 Accounts by seeing advertisement 1 time 
 Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://up-to-down.net/41622/mineas1 ) 120x Minecraft Accounts 
-:two: ( https://up-to-down.net/41622/minesd2 ) 120x Minecraft Accounts
-:three: ( https://up-to-down.net/41622/minets3 ) 149x Minecraft Accounts`;
+:one: ( https://up-to-down.net/41622/mineas1 ) 120x Minecraft Accounts list 1
+:two: ( https://up-to-down.net/41622/minesd2 ) 120x Minecraft Accounts list 2
+:three: ( https://up-to-down.net/41622/minets3 ) 149x Minecraft Accounts list 3`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
