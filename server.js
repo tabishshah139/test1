@@ -190,7 +190,13 @@ if (message.content === '+mailaccess'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `laurenp.thomas@yahoo.com:Charliecat9510
+    var string = `Note: We have added Little Advertisement
+You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://link-to.net/41622/mailacc1 ) 100x Mail Access Accounts 
+:two: ( https://link-to.net/41622/mail2 ) 100x Mail Access Accounts
+:three: ( https://link-to.net/41622/mailaccu3 ) 150x Mail Access Accounts
+:three: ( https://link-to.net/41622/mailaccc4 ) 150x Mail Access Accounts
 `;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
@@ -219,14 +225,20 @@ if (message.content === '+nitro'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 5000)
-    var string = `
+    var string = `Note: We have added Little Advertisement
+You Can Get more get more than 50 Accounts by seeing advertisement 1 time 
+Watch Advertisement and Recieve Alot Accounts Thank You
+:one: ( https://link-to.net/41622/code1 ) 200x Nitro Codes 
+:two: ( https://link-to.net/41622/codes2 ) 200x Nitro Codes
+:three: ( https://link-to.net/41622/coded3 ) 200x Nitro Codes
+:four: ( https://link-to.net/41622/coddes4 ) 240x Nitro Codes
 `;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
      message.author.send({embed: {
         color: 3447003,
-        description: `**Nitro Code** \n \n ${random}`
+        description: `**Nitro Codes** \n \n ${random}`
       }});
       message.channel.send({embed: {
         color: 3066993,
