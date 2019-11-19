@@ -170,8 +170,7 @@ if (message.content === '+crunchyroll'){
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
     var string = `Note: We have added Little Advertisement
-You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You :one: ( https://link-to.net/41622/crunchy1 ) 60x Crunchyroll Accounts list 1 :two: ( https://link-to.net/41622/crunch2 ) 67x Crunchyroll Accounts list 2`;
+You Can Get more than 50 Accounts by seeing advertisement 1 time .Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://link-to.net/41622/crunchy1 ). 60x Crunchyroll Accounts list 1 :two: ( https://link-to.net/41622/crunch2 ). 67x Crunchyroll Accounts list 2`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
