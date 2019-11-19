@@ -139,11 +139,7 @@ if (message.content === '+origin'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `Note: We have added Little Advertisement
-You Can Get more more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://up-to-down.net/41622/origin101 ) 74x Origin Accounts list 1 
-:two: ( https://link-to.net/41622/origi2 ) 60x Origin Accounts list 2`;
+    var string = `Note: We have added Little Advertisement. You Can Get more more than 50 Accounts by seeing advertisement 1 time. Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://up-to-down.net/41622/origin101 ) 74x Origin Accounts list 1. :two: ( https://link-to.net/41622/origi2 ) 60x Origin Accounts list 2`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -196,13 +192,7 @@ if (message.content === '+mailaccess'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `Note: We have added Little Advertisement
-You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/mailacc1 ) 100x Mail Access Accounts list 1 
-:two: ( https://link-to.net/41622/mail2 ) 100x Mail Access Accounts list 2
-:three: ( https://link-to.net/41622/mailaccu3 ) 150x Mail Access Accounts list 3
-:four: ( https://link-to.net/41622/mailaccc4 ) 150x Mail Access Accounts list 4`;
+    var string = `Note: We have added Little Advertisement. You Can Get more than 50 Accounts by seeing advertisement 1 time. Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://link-to.net/41622/mailacc1 ) 100x Mail Access Accounts list 1. :two: ( https://link-to.net/41622/mail2 ) 100x Mail Access Accounts list 2. :three: ( https://link-to.net/41622/mailaccu3 ) 150x Mail Access Accounts list 3. :four: ( https://link-to.net/41622/mailaccc4 ) 150x Mail Access Accounts list 4`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -229,14 +219,7 @@ if (message.content === '+netflix'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 30000)
-    var string = `Note: We have added Little Advertisement
-You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/netflixe ) 200x Netflix Accounts list 1 
-:two: ( https://link-to.net/41622/netfl2 ) 200x Netflix Accounts list 2
-:three: ( https://link-to.net/41622/netfli3 ) 200x Netflix Accounts list 3
-:four: ( https://link-to.net/41622/netfliee4 ) 260x Netflix Accounts list 4
-:five: ( https://link-to.net/41622/nefliexx5 ) 303x Netflix Accounts list 4`;
+    var string = `Note: We have added Little Advertisement. You Can Get more than 50 Accounts by seeing advertisement 1 time. Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://link-to.net/41622/netflixe ) 200x Netflix Accounts list 1. :two: ( https://link-to.net/41622/netfl2 ) 200x Netflix Accounts list 2. :three: ( https://link-to.net/41622/netfli3 ) 200x Netflix Accounts list 3. :four: ( https://link-to.net/41622/netfliee4 ) 260x Netflix Accounts list 4. :five: ( https://link-to.net/41622/nefliexx5 ) 303x Netflix Accounts list 4`;
 
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
@@ -266,13 +249,7 @@ if (message.content === '+nitro'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 5000)
-    var string = `Note: We have added Little Advertisement
-You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/code1 ) 200x Nitro Codes list 1
-:two: ( https://link-to.net/41622/codes2 ) 200x Nitro Codes list 2
-:three: ( https://link-to.net/41622/coded3 ) 200x Nitro Codes list 3
-:four: ( https://link-to.net/41622/coddes4 ) 240x Nitro Codes list 4`;
+    var string = `Note: We have added Little Advertisement. You Can Get more than 50 Accounts by seeing advertisement 1 time. Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://link-to.net/41622/code1 ) 200x Nitro Codes list 1. :two: ( https://link-to.net/41622/codes2 ) 200x Nitro Codes list 2. :three: ( https://link-to.net/41622/coded3 ) 200x Nitro Codes list 3. :four: ( https://link-to.net/41622/coddes4 ) 240x Nitro Codes list 4`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -300,12 +277,7 @@ if (message.content === '+nordvpn'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `Note: We have added Little Advertisement
-You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/nord ) 150x NordVPN Accounts list 1
-:two: ( https://link-to.net/41622/norde2 ) 150x NordVPN Accounts list 2
-:three: ( https://link-to.net/41622/norde3 ) 200x nordVPN Accounts list 3`;
+    var string = `Note: We have added Little Advertisement. You Can Get more than 50 Accounts by seeing advertisement 1 time. Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://link-to.net/41622/nord ) 150x NordVPN Accounts list 1. :two: ( https://link-to.net/41622/norde2 ) 150x NordVPN Accounts list 2. :three: ( https://link-to.net/41622/norde3 ) 200x nordVPN Accounts list 3`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -333,13 +305,7 @@ if (message.content === '+spotify'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `Note: We have added Little Advertisement
-You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://up-to-down.net/41622/spotify1 ) 200x Spotify Accounts list 1
-:two: ( https://up-to-down.net/41622/Spotify2P ) 200x Spotify Accounts list 2
-:three: ( https://up-to-down.net/41622/spotify3 ) 200x Spotify Accounts list 3
-:four: ( https://up-to-down.net/41622/spotify4 ) 128x Spotify Accounts list 4`;
+    var string = `Note: We have added Little Advertisement. You Can Get more than 50 Accounts by seeing advertisement 1 time. Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://up-to-down.net/41622/spotify1 ) 200x Spotify Accounts list 1. :two: ( https://up-to-down.net/41622/Spotify2P ) 200x Spotify Accounts list 2. :three: ( https://up-to-down.net/41622/spotify3 ) 200x Spotify Accounts list 3. :four: ( https://up-to-down.net/41622/spotify4 ) 128x Spotify Accounts list 4`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -366,12 +332,7 @@ if (message.content === '+minecraft'){
         setTimeout(() =>{
             usedCommandRecently4.delete(message.author.id);
         }, 120000)
-    var string = `Note: We have added Little Advertisement
-You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://up-to-down.net/41622/mineas1 ) 120x Minecraft Accounts list 1
-:two: ( https://up-to-down.net/41622/minesd2 ) 120x Minecraft Accounts list 2
-:three: ( https://up-to-down.net/41622/minets3 ) 149x Minecraft Accounts list 3`;
+    var string = `Note: We have added Little Advertisement. You Can Get more than 50 Accounts by seeing advertisement 1 time. Watch Advertisement and Recieve Alot Accounts Thank You. :one: ( https://up-to-down.net/41622/mineas1 ) 120x Minecraft Accounts list 1. :two: ( https://up-to-down.net/41622/minesd2 ) 120x Minecraft Accounts list 2. :three: ( https://up-to-down.net/41622/minets3 ) 149x Minecraft Accounts list 3`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
