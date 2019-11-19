@@ -171,9 +171,7 @@ if (message.content === '+crunchyroll'){
         }, 120000)
     var string = `Note: We have added Little Advertisement
 You Can Get more than 50 Accounts by seeing advertisement 1 time 
-Watch Advertisement and Recieve Alot Accounts Thank You
-:one: ( https://link-to.net/41622/crunchy1 ) 60x Crunchyroll Accounts list 1 
-:two: ( https://link-to.net/41622/crunch2 ) 67x Crunchyroll Accounts list 2`;
+Watch Advertisement and Recieve Alot Accounts Thank You :one: ( https://link-to.net/41622/crunchy1 ) 60x Crunchyroll Accounts list 1 :two: ( https://link-to.net/41622/crunch2 ) 67x Crunchyroll Accounts list 2`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
@@ -206,7 +204,7 @@ Watch Advertisement and Recieve Alot Accounts Thank You
 :one: ( https://link-to.net/41622/mailacc1 ) 100x Mail Access Accounts list 1 
 :two: ( https://link-to.net/41622/mail2 ) 100x Mail Access Accounts list 2
 :three: ( https://link-to.net/41622/mailaccu3 ) 150x Mail Access Accounts list 3
-:three: ( https://link-to.net/41622/mailaccc4 ) 150x Mail Access Accounts list 4`;
+:four: ( https://link-to.net/41622/mailaccc4 ) 150x Mail Access Accounts list 4`;
    var words = string.split('\n');
     let random = words[Math.floor(Math.random()*words.length)];
       message.author.send("**Join Tabish Gen Official CM** https://discord.gg/zGTR2Ra");
